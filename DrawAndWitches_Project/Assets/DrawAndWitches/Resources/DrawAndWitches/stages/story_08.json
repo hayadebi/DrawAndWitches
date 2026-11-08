@@ -1,0 +1,133 @@
+{
+  "formatVersion": 1,
+  "id": "story_08",
+  "name": {
+    "ja": "第八戦 星座結線",
+    "en": "Duel 8: Constellation Link",
+    "zh": "第八战 星座连结",
+    "ko": "제8전 별자리 결선"
+  },
+  "summary": {
+    "ja": "速さの違う弾を一点で出会わせろ。",
+    "en": "Make bullets of different speeds meet at one point.",
+    "zh": "让速度不同的弹在一点相遇。",
+    "ko": "속도가 다른 탄을 한 점에서 만나게 하라."
+  },
+  "enemyId": "astrea",
+  "editTimeSec": 50,
+  "dragRadius": 128,
+  "barrages": [
+    {
+      "type": "straight",
+      "count": 3,
+      "intervalTicks": 10,
+      "startDelayTicks": 0,
+      "points": [
+        [
+          100,
+          135
+        ],
+        [
+          250,
+          323
+        ],
+        [
+          100,
+          510
+        ],
+        [
+          250,
+          698
+        ],
+        [
+          200,
+          848
+        ]
+      ]
+    },
+    {
+      "type": "straight",
+      "count": 3,
+      "intervalTicks": 10,
+      "startDelayTicks": 20,
+      "points": [
+        [
+          620,
+          135
+        ],
+        [
+          470,
+          323
+        ],
+        [
+          620,
+          510
+        ],
+        [
+          470,
+          698
+        ],
+        [
+          520,
+          848
+        ]
+      ]
+    },
+    {
+      "type": "normal",
+      "count": 4,
+      "intervalTicks": 20,
+      "startDelayTicks": 0,
+      "points": [
+        [
+          360,
+          150
+        ],
+        [
+          330,
+          315
+        ],
+        [
+          390,
+          480
+        ],
+        [
+          330,
+          645
+        ],
+        [
+          390,
+          810
+        ]
+      ]
+    },
+    {
+      "type": "normal",
+      "count": 3,
+      "intervalTicks": 20,
+      "startDelayTicks": 50,
+      "points": [
+        [
+          200,
+          210
+        ],
+        [
+          300,
+          360
+        ],
+        [
+          250,
+          510
+        ],
+        [
+          350,
+          660
+        ],
+        [
+          300,
+          810
+        ]
+      ]
+    }
+  ]
+}

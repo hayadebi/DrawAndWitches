@@ -1,0 +1,77 @@
+{
+  "formatVersion": 1,
+  "id": "story_01",
+  "name": {
+    "ja": "第一戦 飴色の初陣",
+    "en": "Duel 1: Candy-Colored Debut",
+    "zh": "第一战 糖色的初阵",
+    "ko": "제1전 사탕빛 첫 출전"
+  },
+  "summary": {
+    "ja": "二本の弾列を寄せてぶつけよう。",
+    "en": "Pull the two streams together and make them collide.",
+    "zh": "让两列弹靠拢相撞吧。",
+    "ko": "두 탄열을 모아 부딪치게 하자."
+  },
+  "enemyId": "milfy",
+  "editTimeSec": 40,
+  "dragRadius": 120,
+  "barrages": [
+    {
+      "type": "normal",
+      "count": 3,
+      "intervalTicks": 24,
+      "startDelayTicks": 0,
+      "points": [
+        [
+          250,
+          143
+        ],
+        [
+          240,
+          308
+        ],
+        [
+          250,
+          473
+        ],
+        [
+          270,
+          638
+        ],
+        [
+          310,
+          803
+        ]
+      ]
+    },
+    {
+      "type": "normal",
+      "count": 3,
+      "intervalTicks": 24,
+      "startDelayTicks": 0,
+      "points": [
+        [
+          470,
+          143
+        ],
+        [
+          480,
+          308
+        ],
+        [
+          470,
+          473
+        ],
+        [
+          450,
+          638
+        ],
+        [
+          410,
+          803
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "formatVersion": 1,
+  "id": "story_03",
+  "name": {
+    "ja": "第三戦 紅蓮の直線",
+    "en": "Duel 3: Crimson Straight Lines",
+    "zh": "第三战 红莲的直线",
+    "ko": "제3전 홍련의 직선"
+  },
+  "summary": {
+    "ja": "速い直線弾を角で迎え撃て。",
+    "en": "Meet the fast straight shots at the corners.",
+    "zh": "在拐角迎击快速直线弹。",
+    "ko": "빠른 직선탄을 모퉁이에서 맞받아쳐라."
+  },
+  "enemyId": "lou",
+  "editTimeSec": 40,
+  "dragRadius": 120,
+  "barrages": [
+    {
+      "type": "straight",
+      "count": 4,
+      "intervalTicks": 10,
+      "startDelayTicks": 0,
+      "points": [
+        [
+          160,
+          150
+        ],
+        [
+          160,
+          360
+        ],
+        [
+          330,
+          540
+        ],
+        [
+          330,
+          735
+        ],
+        [
+          360,
+          870
+        ]
+      ]
+    },
+    {
+      "type": "straight",
+      "count": 4,
+      "intervalTicks": 10,
+      "startDelayTicks": 30,
+      "points": [
+        [
+          560,
+          150
+        ],
+        [
+          560,
+          360
+        ],
+        [
+          400,
+          540
+        ],
+        [
+          400,
+          735
+        ],
+        [
+          380,
+          870
+        ]
+      ]
+    },
+    {
+      "type": "normal",
+      "count": 3,
+      "intervalTicks": 24,
+      "startDelayTicks": 0,
+      "points": [
+        [
+          300,
+          135
+        ],
+        [
+          330,
+          323
+        ],
+        [
+          380,
+          510
+        ],
+        [
+          420,
+          698
+        ],
+        [
+          440,
+          848
+        ]
+      ]
+    }
+  ]
+}

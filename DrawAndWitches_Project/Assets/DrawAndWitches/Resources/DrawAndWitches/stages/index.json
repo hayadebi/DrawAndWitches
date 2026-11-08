@@ -1,0 +1,45 @@
+{
+  "formatVersion": 1,
+  "stages": [
+    {
+      "id": "story_01",
+      "file": "story_01.json"
+    },
+    {
+      "id": "story_02",
+      "file": "story_02.json"
+    },
+    {
+      "id": "story_03",
+      "file": "story_03.json"
+    },
+    {
+      "id": "story_04",
+      "file": "story_04.json"
+    },
+    {
+      "id": "story_05",
+      "file": "story_05.json"
+    },
+    {
+      "id": "story_06",
+      "file": "story_06.json"
+    },
+    {
+      "id": "story_07",
+      "file": "story_07.json"
+    },
+    {
+      "id": "story_08",
+      "file": "story_08.json"
+    },
+    {
+      "id": "story_09",
+      "file": "story_09.json"
+    },
+    {
+      "id": "story_10",
+      "file": "story_10.json"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "formatVersion": 1,
+  "id": "story_04",
+  "name": {
+    "ja": "第四戦 気まぐれな弧",
+    "en": "Duel 4: Whimsical Arcs",
+    "zh": "第四战 任性的弧线",
+    "ko": "제4전 변덕스러운 호"
+  },
+  "summary": {
+    "ja": "上下の弧の頂点を重ねよう。",
+    "en": "Overlap the peaks of the upper and lower arcs.",
+    "zh": "让上下弧顶重叠吧。",
+    "ko": "위아래 호의 꼭짓점을 겹치자."
+  },
+  "enemyId": "sylphia",
+  "editTimeSec": 40,
+  "dragRadius": 120,
+  "barrages": [
+    {
+      "type": "normal",
+      "count": 4,
+      "intervalTicks": 20,
+      "startDelayTicks": 0,
+      "points": [
+        [
+          60,
+          210
+        ],
+        [
+          120,
+          390
+        ],
+        [
+          260,
+          540
+        ],
+        [
+          420,
+          675
+        ],
+        [
+          560,
+          810
+        ]
+      ]
+    },
+    {
+      "type": "normal",
+      "count": 4,
+      "intervalTicks": 20,
+      "startDelayTicks": 34,
+      "points": [
+        [
+          660,
+          210
+        ],
+        [
+          600,
+          390
+        ],
+        [
+          460,
+          540
+        ],
+        [
+          300,
+          675
+        ],
+        [
+          160,
+          810
+        ]
+      ]
+    },
+    {
+      "type": "normal",
+      "count": 3,
+      "intervalTicks": 24,
+      "startDelayTicks": 40,
+      "points": [
+        [
+          360,
+          135
+        ],
+        [
+          300,
+          285
+        ],
+        [
+          360,
+          435
+        ],
+        [
+          420,
+          585
+        ],
+        [
+          360,
+          735
+        ],
+        [
+          360,
+          870
+        ]
+      ]
+    }
+  ]
+}

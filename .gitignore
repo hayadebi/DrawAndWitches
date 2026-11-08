@@ -73,3 +73,21 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+DrawAndWitches_Project/Assets/DrawAndWitches/Art/Backgrounds/bg01_candy.png.meta
+*.meta
+*.apiupaterconfigs
+/DrawAndWitches_Project/Library
+*.settings
+*.dwlt
+/DrawAndWitches_Project/obj
+/DrawAndWitches_Project/UserSettings
+/DrawAndWitches_Project/ProjectSettings
+/DrawAndWitches_Project/Packages
+*.png
+*.wav
+*.unity
+*.asset
+/DrawAndWitches_Project/Temp
+DrawAndWitches_Project/.vsconfig
+*.inputactions
+*.scenetemplate

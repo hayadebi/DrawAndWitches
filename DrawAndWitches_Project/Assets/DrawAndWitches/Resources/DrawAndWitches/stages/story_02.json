@@ -1,0 +1,105 @@
+{
+  "formatVersion": 1,
+  "id": "story_02",
+  "name": {
+    "ja": "第二戦 氷湖の交差",
+    "en": "Duel 2: Crossing on the Ice",
+    "zh": "第二战 冰湖的交错",
+    "ko": "제2전 얼음 호수의 교차"
+  },
+  "summary": {
+    "ja": "三本が交わる一点を探せ。",
+    "en": "Find the single point where three lines meet.",
+    "zh": "寻找三线交汇的一点。",
+    "ko": "세 줄이 만나는 한 점을 찾아라."
+  },
+  "enemyId": "neve",
+  "editTimeSec": 40,
+  "dragRadius": 120,
+  "barrages": [
+    {
+      "type": "normal",
+      "count": 3,
+      "intervalTicks": 24,
+      "startDelayTicks": 0,
+      "points": [
+        [
+          120,
+          165
+        ],
+        [
+          200,
+          315
+        ],
+        [
+          300,
+          465
+        ],
+        [
+          380,
+          615
+        ],
+        [
+          440,
+          780
+        ]
+      ]
+    },
+    {
+      "type": "normal",
+      "count": 3,
+      "intervalTicks": 24,
+      "startDelayTicks": 40,
+      "points": [
+        [
+          600,
+          165
+        ],
+        [
+          520,
+          315
+        ],
+        [
+          420,
+          465
+        ],
+        [
+          340,
+          615
+        ],
+        [
+          280,
+          780
+        ]
+      ]
+    },
+    {
+      "type": "normal",
+      "count": 3,
+      "intervalTicks": 24,
+      "startDelayTicks": 16,
+      "points": [
+        [
+          360,
+          150
+        ],
+        [
+          360,
+          300
+        ],
+        [
+          360,
+          450
+        ],
+        [
+          360,
+          600
+        ],
+        [
+          360,
+          765
+        ]
+      ]
+    }
+  ]
+}

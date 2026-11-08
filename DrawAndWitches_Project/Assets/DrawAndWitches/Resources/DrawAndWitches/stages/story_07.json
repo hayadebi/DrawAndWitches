@@ -1,0 +1,109 @@
+{
+  "formatVersion": 1,
+  "id": "story_07",
+  "name": {
+    "ja": "第七戦 百鬼の行列",
+    "en": "Duel 7: Parade of a Hundred",
+    "zh": "第七战 百鬼的行列",
+    "ko": "제7전 백귀의 행렬"
+  },
+  "summary": {
+    "ja": "先頭を崩して行列ごと連鎖させろ。",
+    "en": "Break the leaders and chain the whole parade.",
+    "zh": "击溃先头，让整个行列连锁。",
+    "ko": "선두를 무너뜨려 행렬째 연쇄시켜라."
+  },
+  "enemyId": "yomi",
+  "editTimeSec": 45,
+  "dragRadius": 143,
+  "barrages": [
+    {
+      "type": "normal",
+      "count": 7,
+      "intervalTicks": 14,
+      "startDelayTicks": 0,
+      "points": [
+        [
+          300,
+          143
+        ],
+        [
+          260,
+          300
+        ],
+        [
+          300,
+          450
+        ],
+        [
+          260,
+          600
+        ],
+        [
+          320,
+          750
+        ],
+        [
+          360,
+          870
+        ]
+      ]
+    },
+    {
+      "type": "normal",
+      "count": 3,
+      "intervalTicks": 20,
+      "startDelayTicks": 10,
+      "points": [
+        [
+          600,
+          143
+        ],
+        [
+          560,
+          300
+        ],
+        [
+          520,
+          450
+        ],
+        [
+          480,
+          600
+        ],
+        [
+          440,
+          750
+        ]
+      ]
+    },
+    {
+      "type": "giant",
+      "count": 1,
+      "intervalTicks": 40,
+      "startDelayTicks": 0,
+      "points": [
+        [
+          120,
+          143
+        ],
+        [
+          160,
+          300
+        ],
+        [
+          200,
+          450
+        ],
+        [
+          260,
+          600
+        ],
+        [
+          320,
+          750
+        ]
+      ]
+    }
+  ]
+}

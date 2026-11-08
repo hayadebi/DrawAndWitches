@@ -1,0 +1,446 @@
+{
+  "formatVersion": 1,
+  "player": {
+    "id": "crea",
+    "portrait": "char_crea",
+    "color": "#b48cff",
+    "name": {
+      "ja": "クリエ",
+      "en": "Crea",
+      "zh": "克莉艾",
+      "ko": "크리에"
+    },
+    "title": {
+      "ja": "序列外の描き手",
+      "en": "The Unranked Drawer",
+      "zh": "序列外的绘者",
+      "ko": "서열 밖의 그리는 자"
+    },
+    "intro": {
+      "ja": "通常の弾幕を撃てない「無能者」。杖ほどの大筆で、敵の弾幕の軌道を描き変える。負けず嫌い。",
+      "en": "Called useless for being unable to fire danmaku. With a brush as tall as a staff, she redraws her foes' barrages. Hates losing.",
+      "zh": "无法发射普通弹幕的“无能者”。用与法杖等长的大笔，改写敌人弹幕的轨道。不服输。",
+      "ko": "평범한 탄막을 쏘지 못하는 '무능력자'. 지팡이만 한 붓으로 적의 탄막 궤도를 고쳐 그린다. 지기 싫어한다."
+    }
+  },
+  "enemies": [
+    {
+      "id": "milfy",
+      "rank": 10,
+      "color": "#ff8fc8",
+      "portrait": "char_milfy",
+      "background": "bg_candy",
+      "name": {
+        "ja": "ミルフィ",
+        "en": "Milfy",
+        "zh": "米尔菲",
+        "ko": "밀피"
+      },
+      "title": {
+        "ja": "飴細工の見習い",
+        "en": "Candy Apprentice",
+        "zh": "糖艺见习生",
+        "ko": "사탕 세공 견습생"
+      },
+      "intro": {
+        "ja": "お菓子の魔法が得意な見習い魔女。明るく人懐っこいが、序列の話になると急に意地っ張りになる。",
+        "en": "An apprentice skilled in sweets magic. Cheerful and friendly, but turns stubborn whenever rankings come up.",
+        "zh": "擅长糖果魔法的见习魔女。开朗亲切，但一谈到序列就变得倔强。",
+        "ko": "과자 마법이 특기인 견습 마녀. 밝고 붙임성 있지만 서열 이야기만 나오면 고집을 부린다."
+      },
+      "spell": {
+        "ja": "飴符「ポップキャンディ・レイン」",
+        "en": "Candy Sign \"Pop Candy Rain\"",
+        "zh": "糖符「波普糖果雨」",
+        "ko": "사탕부「팝 캔디 레인」"
+      },
+      "spellDetail": {
+        "ja": "上下二列の飴玉が平行に降り注ぐ素直な弾幕。二本の軌道を寄せれば正面からぶつけられる。",
+        "en": "Two parallel streams of candy drops. Pull the two lines together and they collide head-on.",
+        "zh": "上下两列糖球平行落下的直率弹幕。将两条轨道靠拢即可正面相撞。",
+        "ko": "위아래 두 줄의 사탕알이 나란히 쏟아지는 솔직한 탄막. 두 궤도를 모으면 정면으로 부딪힌다."
+      },
+      "bgm": "bgm_battle_milfy"
+    },
+    {
+      "id": "neve",
+      "rank": 9,
+      "color": "#8fe3ff",
+      "portrait": "char_neve",
+      "background": "bg_ice",
+      "name": {
+        "ja": "ネーヴェ",
+        "en": "Neve",
+        "zh": "妮薇",
+        "ko": "네베"
+      },
+      "title": {
+        "ja": "氷湖の静寂",
+        "en": "Silence of the Frozen Lake",
+        "zh": "冰湖的寂静",
+        "ko": "얼음 호수의 정적"
+      },
+      "intro": {
+        "ja": "感情を表に出さない氷の魔女。無駄を嫌い、最小の手数で勝つことを美学としている。",
+        "en": "An ice witch who never shows emotion. She despises waste and believes in winning with the fewest moves.",
+        "zh": "从不流露感情的冰之魔女。讨厌多余，以最少手数取胜为美学。",
+        "ko": "감정을 드러내지 않는 얼음 마녀. 낭비를 싫어하며 최소한의 수로 이기는 것을 미학으로 여긴다."
+      },
+      "spell": {
+        "ja": "氷華「フロストスパイラル」",
+        "en": "Ice Bloom \"Frost Spiral\"",
+        "zh": "冰华「霜之螺旋」",
+        "ko": "빙화「프로스트 스파이럴」"
+      },
+      "spellDetail": {
+        "ja": "交差する三本の氷弾列。交点のタイミングを合わせれば一度に連鎖させられる。",
+        "en": "Three crossing streams of ice shards. Sync the crossing timing to chain them all at once.",
+        "zh": "三条交错的冰弹列。对准交点时机即可一举连锁。",
+        "ko": "교차하는 세 줄의 얼음탄. 교차점의 타이밍을 맞추면 한 번에 연쇄시킬 수 있다."
+      },
+      "bgm": "bgm_battle_neve"
+    },
+    {
+      "id": "lou",
+      "rank": 8,
+      "color": "#ff6a3d",
+      "portrait": "char_lou",
+      "background": "bg_volcano",
+      "name": {
+        "ja": "ルゥ・ガーネット",
+        "en": "Lou Garnet",
+        "zh": "露·加内特",
+        "ko": "루 가넷"
+      },
+      "title": {
+        "ja": "紅蓮の喧嘩屋",
+        "en": "Crimson Brawler",
+        "zh": "红莲的斗士",
+        "ko": "홍련의 싸움꾼"
+      },
+      "intro": {
+        "ja": "真っ直ぐな性格そのままの直線弾幕を放つ炎の魔女。小細工は嫌いだが、強い相手は大好き。",
+        "en": "A fire witch whose straight bullets mirror her straightforward nature. Hates tricks, loves strong opponents.",
+        "zh": "如其直率性格般发射直线弹幕的火之魔女。讨厌小把戏，最喜欢强敌。",
+        "ko": "곧은 성격 그대로 직선 탄막을 쏘는 불꽃 마녀. 잔꾀는 싫어하지만 강한 상대는 아주 좋아한다."
+      },
+      "spell": {
+        "ja": "炎符「紅蓮ストレートフレア」",
+        "en": "Flame Sign \"Crimson Straight Flare\"",
+        "zh": "炎符「红莲直线耀焰」",
+        "ko": "염부「홍련 스트레이트 플레어」"
+      },
+      "spellDetail": {
+        "ja": "角を持つ折れ線を高速で駆ける直線弾。速度差を読んで曲がり角で迎え撃て。",
+        "en": "Fast straight bullets racing along angled lines. Read the speed gap and ambush them at a corner.",
+        "zh": "沿折线高速奔驰的直线弹。读懂速度差，在拐角处迎击。",
+        "ko": "꺾인 선을 고속으로 달리는 직선탄. 속도 차이를 읽고 모퉁이에서 맞받아쳐라."
+      },
+      "bgm": "bgm_battle_lou"
+    },
+    {
+      "id": "sylphia",
+      "rank": 7,
+      "color": "#6fe0a8",
+      "portrait": "char_sylphia",
+      "background": "bg_sky",
+      "name": {
+        "ja": "シルフィア",
+        "en": "Sylphia",
+        "zh": "希尔菲娅",
+        "ko": "실피아"
+      },
+      "title": {
+        "ja": "気まぐれな追い風",
+        "en": "Fickle Tailwind",
+        "zh": "任性的顺风",
+        "ko": "변덕스러운 순풍"
+      },
+      "intro": {
+        "ja": "風に乗って空を遊ぶいたずら好きの魔女。弾幕もふわりと弧を描き、読みづらい。",
+        "en": "A prankster who plays in the sky on the wind. Her barrages drift in soft arcs that are hard to read.",
+        "zh": "乘风在空中嬉戏的恶作剧魔女。弹幕也轻盈地划出弧线，难以捉摸。",
+        "ko": "바람을 타고 하늘에서 노는 장난꾸러기 마녀. 탄막도 살랑살랑 호를 그려 읽기 어렵다."
+      },
+      "spell": {
+        "ja": "風符「三日月ウィンドカッター」",
+        "en": "Wind Sign \"Crescent Wind Cutter\"",
+        "zh": "风符「新月风刃」",
+        "ko": "풍부「초승달 윈드커터」"
+      },
+      "spellDetail": {
+        "ja": "上下から弧を描いて迫る弾列。弧の頂点同士を重ねると気持ちよく相殺できる。",
+        "en": "Streams arcing in from above and below. Overlap the peaks of the arcs for a clean cancel.",
+        "zh": "从上下划弧逼近的弹列。让弧顶重叠即可漂亮地抵消。",
+        "ko": "위아래에서 호를 그리며 다가오는 탄열. 호의 꼭짓점끼리 겹치면 시원하게 상쇄된다."
+      },
+      "bgm": "bgm_battle_sylphia"
+    },
+    {
+      "id": "morgana",
+      "rank": 6,
+      "color": "#a6d04a",
+      "portrait": "char_morgana",
+      "background": "bg_swamp",
+      "name": {
+        "ja": "モルガナ",
+        "en": "Morgana",
+        "zh": "莫尔加娜",
+        "ko": "모르가나"
+      },
+      "title": {
+        "ja": "沼底の錬金術師",
+        "en": "Alchemist of the Mire",
+        "zh": "沼底的炼金术师",
+        "ko": "늪 바닥의 연금술사"
+      },
+      "intro": {
+        "ja": "面倒くさがりだが頭脳は一流の錬金魔女。大釜から生まれる巨弾は遅いが、とにかく大きい。",
+        "en": "Lazy but brilliant alchemist. The giant orbs from her cauldron are slow, but enormous.",
+        "zh": "懒散却头脑一流的炼金魔女。大釜中诞生的巨弹虽慢，却极其巨大。",
+        "ko": "귀찮아하지만 두뇌는 일류인 연금 마녀. 큰 솥에서 태어난 거대탄은 느리지만 아무튼 크다."
+      },
+      "spell": {
+        "ja": "毒釜「グレートポーション・ボム」",
+        "en": "Cauldron \"Great Potion Bomb\"",
+        "zh": "毒釜「巨型药剂炸弹」",
+        "ko": "독솥「그레이트 포션 봄」"
+      },
+      "spellDetail": {
+        "ja": "遅く大きな巨弾と小弾の混成。巨弾の爆発に小弾を巻き込むのが攻略の鍵。",
+        "en": "A mix of slow giant orbs and small shots. Catch the small ones in the giants' explosions.",
+        "zh": "缓慢巨弹与小弹的混编。让小弹卷入巨弹的爆炸是攻略关键。",
+        "ko": "느리고 큰 거대탄과 작은 탄의 혼성. 거대탄의 폭발에 작은 탄을 휘말리게 하는 것이 공략의 열쇠."
+      },
+      "bgm": "bgm_battle_morgana"
+    },
+    {
+      "id": "tiara",
+      "rank": 5,
+      "color": "#e8b85a",
+      "portrait": "char_tiara",
+      "background": "bg_clock",
+      "name": {
+        "ja": "ティアラ・クロック",
+        "en": "Tiara Clock",
+        "zh": "蒂亚拉·克洛克",
+        "ko": "티아라 클록"
+      },
+      "title": {
+        "ja": "秒針の審判",
+        "en": "Judge of the Second Hand",
+        "zh": "秒针的审判",
+        "ko": "초침의 심판"
+      },
+      "intro": {
+        "ja": "一秒の遅れも許さない時計塔の魔女。発射の時間差で相手を翻弄する。",
+        "en": "Clock-tower witch who tolerates no delay. She confounds opponents with staggered firing times.",
+        "zh": "不容许一秒延误的钟楼魔女。以发射时间差戏弄对手。",
+        "ko": "1초의 지각도 용납하지 않는 시계탑 마녀. 발사 시간차로 상대를 농락한다."
+      },
+      "spell": {
+        "ja": "時符「クロックハンド・ディレイ」",
+        "en": "Time Sign \"Clockhand Delay\"",
+        "zh": "时符「时针延迟」",
+        "ko": "시부「클록핸드 딜레이」"
+      },
+      "spellDetail": {
+        "ja": "時間差で放たれる弾列。軌道の長さを変えて到着時刻を合わせよ。",
+        "en": "Streams fired with time gaps. Change path lengths so their arrival times match.",
+        "zh": "存在时间差的弹列。改变轨道长度来对齐抵达时刻。",
+        "ko": "시간차로 발사되는 탄열. 궤도 길이를 바꿔 도착 시각을 맞춰라."
+      },
+      "bgm": "bgm_battle_tiara"
+    },
+    {
+      "id": "yomi",
+      "rank": 4,
+      "color": "#6f8dff",
+      "portrait": "char_yomi",
+      "background": "bg_lantern",
+      "name": {
+        "ja": "ヨミ",
+        "en": "Yomi",
+        "zh": "黄泉",
+        "ko": "요미"
+      },
+      "title": {
+        "ja": "幽灯の行列",
+        "en": "Procession of Ghost Lights",
+        "zh": "幽灯的行列",
+        "ko": "유등의 행렬"
+      },
+      "intro": {
+        "ja": "霊を導く提灯の魔女。穏やかに微笑むが、その行列は決して途切れない。",
+        "en": "Lantern witch who guides spirits. She smiles gently, but her procession never ends.",
+        "zh": "引导亡灵的提灯魔女。温柔微笑，但她的行列从不中断。",
+        "ko": "영혼을 인도하는 초롱 마녀. 온화하게 웃지만 그 행렬은 결코 끊기지 않는다."
+      },
+      "spell": {
+        "ja": "霊符「百鬼灯籠行列」",
+        "en": "Spirit Sign \"Hundred Lantern Parade\"",
+        "zh": "灵符「百鬼灯笼行列」",
+        "ko": "영부「백귀 등롱 행렬」"
+      },
+      "spellDetail": {
+        "ja": "長い行列で迫る多数の弾。先頭を相殺して連鎖爆発で後続を飲み込め。",
+        "en": "A long parade of bullets. Cancel the leaders and let the chain swallow the rest.",
+        "zh": "排成长列逼近的大量弹。抵消先头，以连锁爆炸吞噬后续。",
+        "ko": "긴 행렬로 다가오는 다수의 탄. 선두를 상쇄하고 연쇄 폭발로 뒤를 삼켜라."
+      },
+      "bgm": "bgm_battle_yomi"
+    },
+    {
+      "id": "astrea",
+      "rank": 3,
+      "color": "#ffd76a",
+      "portrait": "char_astrea",
+      "background": "bg_star",
+      "name": {
+        "ja": "アストレア",
+        "en": "Astrea",
+        "zh": "阿斯特蕾亚",
+        "ko": "아스트레아"
+      },
+      "title": {
+        "ja": "星図を紡ぐ者",
+        "en": "Weaver of Star Charts",
+        "zh": "编织星图之人",
+        "ko": "성도를 엮는 자"
+      },
+      "intro": {
+        "ja": "星の配置で未来を読む誇り高き魔女。弾幕は星座のように結ばれている。",
+        "en": "A proud witch who reads the future in the stars. Her barrages are linked like constellations.",
+        "zh": "以星辰排列解读未来的高傲魔女。弹幕如星座般相连。",
+        "ko": "별의 배치로 미래를 읽는 자부심 높은 마녀. 탄막은 별자리처럼 이어져 있다."
+      },
+      "spell": {
+        "ja": "星符「コンステレーション・リンク」",
+        "en": "Star Sign \"Constellation Link\"",
+        "zh": "星符「星座连结」",
+        "ko": "성부「컨스텔레이션 링크」"
+      },
+      "spellDetail": {
+        "ja": "直線弾と通常弾が星座状に交差する。異なる速度の弾をどこで出会わせるかが勝負。",
+        "en": "Straight and normal bullets cross like constellations. Where you make different speeds meet decides it.",
+        "zh": "直线弹与普通弹如星座般交错。在何处让不同速度的弹相遇是胜负关键。",
+        "ko": "직선탄과 일반탄이 별자리처럼 교차한다. 속도가 다른 탄을 어디서 만나게 할지가 승부."
+      },
+      "bgm": "bgm_battle_astrea"
+    },
+    {
+      "id": "belzerica",
+      "rank": 2,
+      "color": "#ff4d6d",
+      "portrait": "char_belzerica",
+      "background": "bg_rose",
+      "name": {
+        "ja": "ベルゼリカ",
+        "en": "Belzerica",
+        "zh": "贝尔泽丽卡",
+        "ko": "벨제리카"
+      },
+      "title": {
+        "ja": "黒薔薇の女王",
+        "en": "Queen of Black Roses",
+        "zh": "黑蔷薇女王",
+        "ko": "흑장미의 여왕"
+      },
+      "intro": {
+        "ja": "序列二位、高慢な薔薇の魔女。無能者と呼ばれるクリエを誰より見下している。",
+        "en": "Second-ranked, haughty rose witch. She looks down on 'useless' Crea more than anyone.",
+        "zh": "序列第二、高傲的蔷薇魔女。比任何人都更瞧不起被称为无能者的克莉艾。",
+        "ko": "서열 2위, 오만한 장미 마녀. 무능력자라 불리는 크리에를 누구보다 깔본다."
+      },
+      "spell": {
+        "ja": "薔薇「ブラックローズ・ケージ」",
+        "en": "Rose \"Black Rose Cage\"",
+        "zh": "蔷薇「黑蔷薇之笼」",
+        "ko": "장미「블랙 로즈 케이지」"
+      },
+      "spellDetail": {
+        "ja": "三種の弾が檻のように包囲する。巨弾の爆発半径を最大限に使え。",
+        "en": "All three bullet types close in like a cage. Make full use of the giant orbs' blast radius.",
+        "zh": "三种弹如牢笼般包围。最大限度利用巨弹的爆炸半径。",
+        "ko": "세 종류의 탄이 우리처럼 포위한다. 거대탄의 폭발 반경을 최대한 활용하라."
+      },
+      "bgm": "bgm_battle_belzerica"
+    },
+    {
+      "id": "celestine",
+      "rank": 1,
+      "color": "#d9b8ff",
+      "portrait": "char_celestine",
+      "background": "bg_celestial",
+      "name": {
+        "ja": "セレスティーヌ",
+        "en": "Celestine",
+        "zh": "瑟蕾丝汀",
+        "ko": "셀레스틴"
+      },
+      "title": {
+        "ja": "天球の大魔女",
+        "en": "Archwitch of the Celestial Sphere",
+        "zh": "天球大魔女",
+        "ko": "천구의 대마녀"
+      },
+      "intro": {
+        "ja": "序列一位。全ての魔女の頂点に立つ存在。クリエの力に、ただ一人興味を示している。",
+        "en": "Rank one, the pinnacle of all witches. The only one who has shown interest in Crea's power.",
+        "zh": "序列第一，立于所有魔女顶点的存在。唯一对克莉艾之力表现出兴趣的人。",
+        "ko": "서열 1위. 모든 마녀의 정점에 선 존재. 크리에의 힘에 유일하게 관심을 보이고 있다."
+      },
+      "spell": {
+        "ja": "天球「セレスティアル・フーガ」",
+        "en": "Celestial \"Celestial Fugue\"",
+        "zh": "天球「天体赋格」",
+        "ko": "천구「셀레스티얼 푸가」"
+      },
+      "spellDetail": {
+        "ja": "全方位から時間差で重なり合う最終弾幕。全ての知識を総動員せよ。",
+        "en": "The final barrage, overlapping from every direction with time gaps. Use everything you've learned.",
+        "zh": "从全方位以时间差重叠而来的最终弹幕。动员所有知识吧。",
+        "ko": "전방위에서 시간차로 겹쳐 오는 최종 탄막. 모든 지식을 총동원하라."
+      },
+      "bgm": "bgm_battle_celestine"
+    }
+  ],
+  "editorEnemy": {
+    "id": "editor_doll",
+    "rank": 0,
+    "color": "#c9b6ff",
+    "portrait": "char_editor_doll",
+    "background": "bg_editor",
+    "name": {
+      "ja": "練習人形ドロウ",
+      "en": "Practice Doll Drow",
+      "zh": "练习人偶德洛",
+      "ko": "연습 인형 드로우"
+    },
+    "title": {
+      "ja": "アトリエの的",
+      "en": "Atelier Target",
+      "zh": "画室的靶子",
+      "ko": "아틀리에의 과녁"
+    },
+    "intro": {
+      "ja": "クリエが弾幕の研究用に縫った人形。どんな弾幕でも文句を言わずに撃ってくれる。",
+      "en": "A doll Crea sewed for danmaku research. It fires any barrage without complaint.",
+      "zh": "克莉艾为研究弹幕而缝制的人偶。任何弹幕都毫无怨言地发射。",
+      "ko": "크리에가 탄막 연구용으로 꿰맨 인형. 어떤 탄막이든 불평 없이 쏴 준다."
+    },
+    "spell": {
+      "ja": "創作弾幕",
+      "en": "Original Barrage",
+      "zh": "创作弹幕",
+      "ko": "창작 탄막"
+    },
+    "spellDetail": {
+      "ja": "",
+      "en": "",
+      "zh": "",
+      "ko": ""
+    },
+    "bgm": "bgm_battle_editor"
+  }
+}

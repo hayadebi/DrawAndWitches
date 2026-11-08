@@ -1,0 +1,105 @@
+{
+  "formatVersion": 1,
+  "id": "story_06",
+  "name": {
+    "ja": "第六戦 秒針の審判",
+    "en": "Duel 6: Judgment of Seconds",
+    "zh": "第六战 秒针的审判",
+    "ko": "제6전 초침의 심판"
+  },
+  "summary": {
+    "ja": "軌道の長さで到着時刻を合わせよ。",
+    "en": "Match arrival times by changing path length.",
+    "zh": "用轨道长度对齐抵达时刻。",
+    "ko": "궤도 길이로 도착 시각을 맞춰라."
+  },
+  "enemyId": "tiara",
+  "editTimeSec": 45,
+  "dragRadius": 128,
+  "barrages": [
+    {
+      "type": "normal",
+      "count": 3,
+      "intervalTicks": 24,
+      "startDelayTicks": 0,
+      "points": [
+        [
+          200,
+          150
+        ],
+        [
+          220,
+          315
+        ],
+        [
+          260,
+          480
+        ],
+        [
+          300,
+          645
+        ],
+        [
+          330,
+          810
+        ]
+      ]
+    },
+    {
+      "type": "normal",
+      "count": 3,
+      "intervalTicks": 24,
+      "startDelayTicks": 60,
+      "points": [
+        [
+          520,
+          150
+        ],
+        [
+          500,
+          315
+        ],
+        [
+          460,
+          480
+        ],
+        [
+          420,
+          645
+        ],
+        [
+          390,
+          810
+        ]
+      ]
+    },
+    {
+      "type": "straight",
+      "count": 3,
+      "intervalTicks": 10,
+      "startDelayTicks": 120,
+      "points": [
+        [
+          360,
+          135
+        ],
+        [
+          300,
+          323
+        ],
+        [
+          420,
+          510
+        ],
+        [
+          300,
+          698
+        ],
+        [
+          360,
+          848
+        ]
+      ]
+    }
+  ]
+}

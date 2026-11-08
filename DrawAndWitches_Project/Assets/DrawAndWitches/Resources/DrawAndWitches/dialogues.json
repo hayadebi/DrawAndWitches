@@ -1,0 +1,349 @@
+{
+ "formatVersion": 1,
+ "stages": {
+  "story_01": [
+   {
+    "speaker": "enemy",
+    "text": {
+     "ja": "あら、あなたが噂の『序列外』？ 弾幕も撃てないって本当なのね！",
+     "en": "Oh, so you're the famous 'Unranked'? Is it true you can't even fire danmaku?",
+     "zh": "哎呀，你就是传闻中的『序列外』？听说你连弹幕都发不出来，是真的吗！",
+     "ko": "어머, 네가 소문의 『서열 외』야? 탄막도 못 쏜다는 게 정말이구나!"
+    }
+   },
+   {
+    "speaker": "player",
+    "text": {
+     "ja": "撃てないよ。でも、描き換えることならできる。",
+     "en": "I can't fire them. But I can redraw them.",
+     "zh": "发不出来哦。不过，我可以改写它们。",
+     "ko": "못 쏴. 하지만 다시 그릴 수는 있어."
+    }
+   },
+   {
+    "speaker": "enemy",
+    "text": {
+     "ja": "ふふん、わたしの飴の雨、甘く見ないでよね！",
+     "en": "Hmph! Don't underestimate my candy rain!",
+     "zh": "哼哼，可别小看我的糖果雨哦！",
+     "ko": "흥, 내 사탕 비를 얕보지 말라고!"
+    }
+   },
+   {
+    "speaker": "player",
+    "text": {
+     "ja": "二本の軌道……重ねてぶつければ、きっと消せる。",
+     "en": "Two paths... If I make them cross, they'll cancel out.",
+     "zh": "两条轨迹……让它们交汇相撞，一定能抵消。",
+     "ko": "두 개의 궤도… 겹쳐서 부딪치면 분명 지울 수 있어."
+    }
+   }
+  ],
+  "story_02": [
+   {
+    "speaker": "enemy",
+    "text": {
+     "ja": "……騒がしい。湖が凍りつくまで、静かにしていて。",
+     "en": "...Noisy. Stay quiet until the lake freezes over.",
+     "zh": "……真吵。在湖面冻结之前，安静一点。",
+     "ko": "……시끄러워. 호수가 얼어붙을 때까지 조용히 해."
+    }
+   },
+   {
+    "speaker": "player",
+    "text": {
+     "ja": "静かに描くのは得意だよ。あなたの氷柱、ちょっと借りるね。",
+     "en": "I'm good at drawing quietly. Mind if I borrow your icicles?",
+     "zh": "安静地画画我最拿手了。你的冰柱，借我用一下哦。",
+     "ko": "조용히 그리는 건 자신 있어. 네 고드름, 잠깐 빌릴게."
+    }
+   },
+   {
+    "speaker": "enemy",
+    "text": {
+     "ja": "借りる……？ 私の魔法は、誰の筆にも染まらない。",
+     "en": "Borrow...? My magic yields to no one's brush.",
+     "zh": "借……？我的魔法，不会被任何人的笔染上颜色。",
+     "ko": "빌린다……? 내 마법은 누구의 붓에도 물들지 않아."
+    }
+   }
+  ],
+  "story_03": [
+   {
+    "speaker": "enemy",
+    "text": {
+     "ja": "おう、序列外！ 拳と炎で語り合おうじゃねぇか！",
+     "en": "Hey, Unranked! Let's talk with fists and fire!",
+     "zh": "喂，序列外！用拳头和火焰来对话吧！",
+     "ko": "어이, 서열 외! 주먹과 불꽃으로 대화해 보자고!"
+    }
+   },
+   {
+    "speaker": "player",
+    "text": {
+     "ja": "拳は無理。でも炎の行き先なら、私が決める。",
+     "en": "Fists, no. But where your flames go — that I decide.",
+     "zh": "拳头可不行。不过火焰的去向，由我来决定。",
+     "ko": "주먹은 무리야. 하지만 불꽃이 갈 곳은 내가 정해."
+    }
+   },
+   {
+    "speaker": "enemy",
+    "text": {
+     "ja": "まっすぐ飛ぶ炎は曲がらねぇぞ！ どうする気だ！",
+     "en": "My straight flames don't bend! What're you gonna do?",
+     "zh": "直线飞行的火焰可不会拐弯！你打算怎么办！",
+     "ko": "똑바로 나는 불꽃은 안 휘어! 어쩔 셈이냐!"
+    }
+   },
+   {
+    "speaker": "player",
+    "text": {
+     "ja": "曲がらないなら、曲がる弾をそこへ連れていくだけ。",
+     "en": "If they won't bend, I'll bring the bending ones to them.",
+     "zh": "既然不会拐弯，那就把会拐弯的子弹带过去。",
+     "ko": "안 휜다면, 휘는 탄을 거기로 데려가면 그만이야."
+    }
+   }
+  ],
+  "story_04": [
+   {
+    "speaker": "enemy",
+    "text": {
+     "ja": "あはは、風向きが変わったみたい！ 今日はあなたと遊ぶ気分♪",
+     "en": "Ahaha, the wind has changed! I feel like playing with you today♪",
+     "zh": "啊哈哈，风向好像变了！今天想和你玩呢♪",
+     "ko": "아하하, 바람 방향이 바뀌었나 봐! 오늘은 너랑 놀고 싶은 기분♪"
+    }
+   },
+   {
+    "speaker": "player",
+    "text": {
+     "ja": "気まぐれな風ほど、描き甲斐があるよ。",
+     "en": "The more fickle the wind, the more fun it is to draw.",
+     "zh": "越是任性的风，画起来越有意思。",
+     "ko": "변덕스러운 바람일수록 그릴 맛이 나지."
+    }
+   },
+   {
+    "speaker": "enemy",
+    "text": {
+     "ja": "じゃあ追いついてみて！ わたしの風はとっても速いよ！",
+     "en": "Then catch up! My wind is super fast!",
+     "zh": "那就追上来试试！我的风可是很快的！",
+     "ko": "그럼 따라와 봐! 내 바람은 엄청 빠르다구!"
+    }
+   }
+  ],
+  "story_05": [
+   {
+    "speaker": "enemy",
+    "text": {
+     "ja": "フフ……序列外の筆。良い素材になりそうねぇ。",
+     "en": "Heh heh... The Unranked's brush. That would make a fine ingredient.",
+     "zh": "呵呵……序列外的笔。看起来会是不错的素材呢。",
+     "ko": "후후…… 서열 외의 붓. 좋은 재료가 되겠네."
+    }
+   },
+   {
+    "speaker": "player",
+    "text": {
+     "ja": "素材にはならないよ。あなたの薬瓶、全部割らせてもらうから。",
+     "en": "I won't be anyone's ingredient. I'm breaking every one of your flasks.",
+     "zh": "我可不会成为素材。你的药瓶，我会全部打碎。",
+     "ko": "재료는 안 돼. 네 약병, 전부 깨 줄 테니까."
+    }
+   },
+   {
+    "speaker": "enemy",
+    "text": {
+     "ja": "割れた瓶は毒の霧になるの。巻き込まれないよう気をつけて？",
+     "en": "Broken flasks turn to poison mist. Do be careful not to get caught.",
+     "zh": "碎掉的瓶子会化作毒雾。小心别被卷进去哦？",
+     "ko": "깨진 병은 독안개가 돼. 휘말리지 않게 조심해?"
+    }
+   },
+   {
+    "speaker": "player",
+    "text": {
+     "ja": "連鎖の爆発……なら、まとめて一気に片づける！",
+     "en": "A chain of blasts... Then I'll clear them all at once!",
+     "zh": "连锁爆炸……那就一口气全部解决！",
+     "ko": "연쇄 폭발…… 그럼 한꺼번에 정리해 주지!"
+    }
+   }
+  ],
+  "story_06": [
+   {
+    "speaker": "enemy",
+    "text": {
+     "ja": "定刻です。あなたの挑戦、残り時間は限られていますよ。",
+     "en": "It is time. Your challenge has a limited clock.",
+     "zh": "时间到了。你的挑战，剩余时间有限哦。",
+     "ko": "정각입니다. 당신의 도전, 남은 시간은 한정되어 있어요."
+    }
+   },
+   {
+    "speaker": "player",
+    "text": {
+     "ja": "時間内に描き終えればいいんでしょ？",
+     "en": "So I just have to finish drawing in time, right?",
+     "zh": "只要在时间内画完就行了吧？",
+     "ko": "시간 안에 다 그리면 되는 거지?"
+    }
+   },
+   {
+    "speaker": "enemy",
+    "text": {
+     "ja": "秒針は一度も狂わない。あなたの筆は、どうでしょう？",
+     "en": "My second hand never strays. Can your brush say the same?",
+     "zh": "秒针从未出过差错。你的笔又如何呢？",
+     "ko": "초침은 한 번도 어긋나지 않아요. 당신의 붓은 어떨까요?"
+    }
+   }
+  ],
+  "story_07": [
+   {
+    "speaker": "enemy",
+    "text": {
+     "ja": "こんな夜更けに……灯りに誘われて来たのですか。",
+     "en": "So late at night... Did the lanterns lure you here?",
+     "zh": "这么深的夜……你是被灯火引来的吗。",
+     "ko": "이런 깊은 밤에…… 등불에 이끌려 온 건가요."
+    }
+   },
+   {
+    "speaker": "player",
+    "text": {
+     "ja": "百の灯りの行列……一つずつ数えるのは大変そう。",
+     "en": "A parade of a hundred lanterns... Counting them one by one sounds tough.",
+     "zh": "上百盏灯火的队列……一个个数可真够呛。",
+     "ko": "백 개의 등불 행렬…… 하나씩 세기는 힘들겠네."
+    }
+   },
+   {
+    "speaker": "enemy",
+    "text": {
+     "ja": "数える必要はありません。最後には、あなたも列に加わるのですから。",
+     "en": "No need to count. In the end, you will join the procession too.",
+     "zh": "不必数了。到最后，你也会加入这支队列。",
+     "ko": "셀 필요는 없어요. 마지막엔 당신도 행렬에 합류할 테니까요."
+    }
+   },
+   {
+    "speaker": "player",
+    "text": {
+     "ja": "加わらないよ。行列ごと、別の道へ描き換える！",
+     "en": "I won't. I'll redraw the whole parade onto another road!",
+     "zh": "我才不会加入。我要把整个队列改写到另一条路上！",
+     "ko": "합류 안 해. 행렬째로 다른 길로 다시 그려 줄 거야!"
+    }
+   }
+  ],
+  "story_08": [
+   {
+    "speaker": "enemy",
+    "text": {
+     "ja": "星図に記されていない線……あなたは何者？",
+     "en": "A line not written in the star chart... Who are you?",
+     "zh": "星图上没有记载的线……你是什么人？",
+     "ko": "성도에 적혀 있지 않은 선…… 당신은 누구죠?"
+    }
+   },
+   {
+    "speaker": "player",
+    "text": {
+     "ja": "ただの描き手。星の並びも、ちょっとだけ描き直すよ。",
+     "en": "Just someone who draws. I'll redraw the stars a little, too.",
+     "zh": "只是个绘者而已。星星的排列，我也会稍微重画一下。",
+     "ko": "그냥 그리는 사람. 별의 배열도 조금 다시 그릴게."
+    }
+   },
+   {
+    "speaker": "enemy",
+    "text": {
+     "ja": "星座は運命そのもの。書き換えられるなら、見せてごらんなさい。",
+     "en": "Constellations are destiny itself. If you can rewrite them, show me.",
+     "zh": "星座即是命运本身。若你能改写，就让我看看吧。",
+     "ko": "별자리는 운명 그 자체. 고쳐 쓸 수 있다면 보여 주세요."
+    }
+   }
+  ],
+  "story_09": [
+   {
+    "speaker": "enemy",
+    "text": {
+     "ja": "ここまで来るなんて。わたくしの庭を荒らした罪は重いですわよ。",
+     "en": "To think you made it this far. Trampling my garden is a grave offense.",
+     "zh": "竟然来到了这里。践踏我庭院的罪可是很重的哦。",
+     "ko": "여기까지 오다니. 제 정원을 어지럽힌 죄는 무겁답니다."
+    }
+   },
+   {
+    "speaker": "player",
+    "text": {
+     "ja": "荒らしてないよ。棘の道を、通れる道に描き直しただけ。",
+     "en": "I didn't trample it. I just redrew the thorny path into one I could walk.",
+     "zh": "我没有践踏。只是把荆棘之路重画成了能走的路而已。",
+     "ko": "어지럽히지 않았어. 가시밭길을 지나갈 수 있는 길로 다시 그렸을 뿐이야."
+    }
+   },
+   {
+    "speaker": "enemy",
+    "text": {
+     "ja": "では、その筆ごと黒薔薇で覆い尽くして差し上げますわ！",
+     "en": "Then I shall bury you, brush and all, in black roses!",
+     "zh": "那么，就让黑蔷薇连同你的笔一起吞没吧！",
+     "ko": "그렇다면 그 붓째로 흑장미로 뒤덮어 드리죠!"
+    }
+   },
+   {
+    "speaker": "player",
+    "text": {
+     "ja": "巨大な弾……でも、大きいほどよく巻き込める！",
+     "en": "Giant bullets... But the bigger they are, the more they take with them!",
+     "zh": "巨大的子弹……不过越大，越能卷入更多！",
+     "ko": "거대한 탄…… 하지만 클수록 더 많이 휘말리게 할 수 있어!"
+    }
+   }
+  ],
+  "story_10": [
+   {
+    "speaker": "enemy",
+    "text": {
+     "ja": "序列の頂へようこそ、描き手。あなたの噂は天球まで届いていました。",
+     "en": "Welcome to the summit of the ranks, Drawer. Word of you reached even the celestial sphere.",
+     "zh": "欢迎来到序列之巅，绘者。你的传闻已传到了天球之上。",
+     "ko": "서열의 정점에 온 것을 환영해요, 그리는 자여. 당신의 소문은 천구까지 닿았답니다."
+    }
+   },
+   {
+    "speaker": "player",
+    "text": {
+     "ja": "撃てない私が、ここまで来られた。最後も描き切ってみせる。",
+     "en": "I can't fire a single shot, yet I made it here. I'll draw this one to the end too.",
+     "zh": "发不出弹幕的我，也走到了这里。最后一战我也要画到底。",
+     "ko": "탄막을 못 쏘는 내가 여기까지 왔어. 마지막도 끝까지 그려 보일게."
+    }
+   },
+   {
+    "speaker": "enemy",
+    "text": {
+     "ja": "ならば受けなさい。天球に刻まれた、すべての軌道を。",
+     "en": "Then receive it — every orbit carved into the heavens.",
+     "zh": "那就接下吧。镌刻于天球之上的一切轨迹。",
+     "ko": "그렇다면 받아 보세요. 천구에 새겨진 모든 궤도를."
+    }
+   },
+   {
+    "speaker": "player",
+    "text": {
+     "ja": "どれだけ多くても、一本ずつ……私の線で塗り替える！",
+     "en": "No matter how many, one by one... I'll paint over them with my own lines!",
+     "zh": "无论有多少，一条一条……用我的线全部改写！",
+     "ko": "아무리 많아도 하나씩…… 내 선으로 덧칠해 줄 거야!"
+    }
+   }
+  ]
+ }
+}

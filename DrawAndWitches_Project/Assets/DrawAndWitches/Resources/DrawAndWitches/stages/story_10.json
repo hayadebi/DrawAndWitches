@@ -1,0 +1,169 @@
+{
+  "formatVersion": 1,
+  "id": "story_10",
+  "name": {
+    "ja": "最終戦 天球のフーガ",
+    "en": "Final Duel: Celestial Fugue",
+    "zh": "最终战 天球赋格",
+    "ko": "최종전 천구의 푸가"
+  },
+  "summary": {
+    "ja": "全方位の弾幕を描き変えて頂点へ。",
+    "en": "Redraw the barrage from every side and reach the top.",
+    "zh": "改写全方位弹幕，登上顶点。",
+    "ko": "전방위 탄막을 고쳐 그려 정점으로."
+  },
+  "enemyId": "celestine",
+  "editTimeSec": 60,
+  "dragRadius": 128,
+  "barrages": [
+    {
+      "type": "normal",
+      "count": 5,
+      "intervalTicks": 18,
+      "startDelayTicks": 0,
+      "points": [
+        [
+          140,
+          143
+        ],
+        [
+          180,
+          300
+        ],
+        [
+          240,
+          450
+        ],
+        [
+          300,
+          600
+        ],
+        [
+          340,
+          750
+        ],
+        [
+          360,
+          878
+        ]
+      ]
+    },
+    {
+      "type": "normal",
+      "count": 5,
+      "intervalTicks": 18,
+      "startDelayTicks": 30,
+      "points": [
+        [
+          580,
+          143
+        ],
+        [
+          540,
+          300
+        ],
+        [
+          480,
+          450
+        ],
+        [
+          420,
+          600
+        ],
+        [
+          380,
+          750
+        ],
+        [
+          360,
+          878
+        ]
+      ]
+    },
+    {
+      "type": "giant",
+      "count": 2,
+      "intervalTicks": 50,
+      "startDelayTicks": 10,
+      "points": [
+        [
+          360,
+          135
+        ],
+        [
+          360,
+          300
+        ],
+        [
+          360,
+          465
+        ],
+        [
+          360,
+          630
+        ],
+        [
+          360,
+          795
+        ]
+      ]
+    },
+    {
+      "type": "straight",
+      "count": 4,
+      "intervalTicks": 10,
+      "startDelayTicks": 90,
+      "points": [
+        [
+          60,
+          135
+        ],
+        [
+          300,
+          315
+        ],
+        [
+          60,
+          495
+        ],
+        [
+          300,
+          675
+        ],
+        [
+          200,
+          855
+        ]
+      ]
+    },
+    {
+      "type": "straight",
+      "count": 4,
+      "intervalTicks": 10,
+      "startDelayTicks": 90,
+      "points": [
+        [
+          660,
+          135
+        ],
+        [
+          420,
+          315
+        ],
+        [
+          660,
+          495
+        ],
+        [
+          420,
+          675
+        ],
+        [
+          520,
+          855
+        ]
+      ]
+    }
+  ]
+}

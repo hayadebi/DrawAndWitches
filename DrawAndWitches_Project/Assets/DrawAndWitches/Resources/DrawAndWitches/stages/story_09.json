@@ -1,0 +1,129 @@
+{
+  "formatVersion": 1,
+  "id": "story_09",
+  "name": {
+    "ja": "第九戦 黒薔薇の檻",
+    "en": "Duel 9: Black Rose Cage",
+    "zh": "第九战 黑蔷薇之笼",
+    "ko": "제9전 흑장미의 우리"
+  },
+  "summary": {
+    "ja": "巨弾の爆発半径を使い切れ。",
+    "en": "Use every inch of the giant blast radius.",
+    "zh": "用尽巨弹的爆炸半径。",
+    "ko": "거대탄의 폭발 반경을 남김없이 써라."
+  },
+  "enemyId": "belzerica",
+  "editTimeSec": 50,
+  "dragRadius": 128,
+  "barrages": [
+    {
+      "type": "giant",
+      "count": 2,
+      "intervalTicks": 40,
+      "startDelayTicks": 0,
+      "points": [
+        [
+          360,
+          150
+        ],
+        [
+          360,
+          315
+        ],
+        [
+          360,
+          480
+        ],
+        [
+          360,
+          645
+        ],
+        [
+          360,
+          810
+        ]
+      ]
+    },
+    {
+      "type": "normal",
+      "count": 4,
+      "intervalTicks": 16,
+      "startDelayTicks": 20,
+      "points": [
+        [
+          100,
+          165
+        ],
+        [
+          140,
+          315
+        ],
+        [
+          200,
+          465
+        ],
+        [
+          260,
+          615
+        ],
+        [
+          300,
+          765
+        ]
+      ]
+    },
+    {
+      "type": "normal",
+      "count": 4,
+      "intervalTicks": 16,
+      "startDelayTicks": 20,
+      "points": [
+        [
+          620,
+          165
+        ],
+        [
+          580,
+          315
+        ],
+        [
+          520,
+          465
+        ],
+        [
+          460,
+          615
+        ],
+        [
+          420,
+          765
+        ]
+      ]
+    },
+    {
+      "type": "straight",
+      "count": 3,
+      "intervalTicks": 10,
+      "startDelayTicks": 80,
+      "points": [
+        [
+          200,
+          135
+        ],
+        [
+          520,
+          360
+        ],
+        [
+          200,
+          585
+        ],
+        [
+          520,
+          810
+        ]
+      ]
+    }
+  ]
+}

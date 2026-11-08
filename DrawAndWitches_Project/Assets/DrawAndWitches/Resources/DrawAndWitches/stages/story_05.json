@@ -1,0 +1,105 @@
+{
+  "formatVersion": 1,
+  "id": "story_05",
+  "name": {
+    "ja": "第五戦 沼底の大釜",
+    "en": "Duel 5: The Cauldron Below",
+    "zh": "第五战 沼底的大釜",
+    "ko": "제5전 늪 바닥의 큰 솥"
+  },
+  "summary": {
+    "ja": "巨弾の爆発で小弾を巻き込め。",
+    "en": "Catch the small shots in the giant blasts.",
+    "zh": "用巨弹的爆炸卷入小弹。",
+    "ko": "거대탄의 폭발로 작은 탄을 휘말리게 하라."
+  },
+  "enemyId": "morgana",
+  "editTimeSec": 45,
+  "dragRadius": 120,
+  "barrages": [
+    {
+      "type": "giant",
+      "count": 2,
+      "intervalTicks": 40,
+      "startDelayTicks": 0,
+      "points": [
+        [
+          240,
+          150
+        ],
+        [
+          260,
+          330
+        ],
+        [
+          300,
+          510
+        ],
+        [
+          330,
+          690
+        ],
+        [
+          350,
+          840
+        ]
+      ]
+    },
+    {
+      "type": "normal",
+      "count": 5,
+      "intervalTicks": 14,
+      "startDelayTicks": 30,
+      "points": [
+        [
+          560,
+          150
+        ],
+        [
+          540,
+          330
+        ],
+        [
+          500,
+          510
+        ],
+        [
+          440,
+          690
+        ],
+        [
+          380,
+          840
+        ]
+      ]
+    },
+    {
+      "type": "normal",
+      "count": 5,
+      "intervalTicks": 14,
+      "startDelayTicks": 30,
+      "points": [
+        [
+          120,
+          135
+        ],
+        [
+          140,
+          300
+        ],
+        [
+          180,
+          480
+        ],
+        [
+          240,
+          645
+        ],
+        [
+          300,
+          810
+        ]
+      ]
+    }
+  ]
+}
